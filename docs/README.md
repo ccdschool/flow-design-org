@@ -1,10 +1,25 @@
-Flow-Design ist eine leichtgewichtige Methode zur Softwareentwicklung von der Anforderungsanalyse bis zur Abnahme durch den Kunden.
+Flow-Design ist eine **leichtgewichtige Methode zur Softwareentwicklung** von der Anforderungsanalyse bis zur Abnahme durch den Kunden.
 
-Flow-Design ist etwas für dich,...
+Ziel von Flow-Design ist eine **nachhaltige Softwareentwicklung**, d.h. eine, die heute erfolgreich ist *und* auch in Zukunft.
 
-* falls du immer wieder unsicher bist, wie du User Stories so in den Griff bekommst, dass du sie zügig umsetzen kannst,
-* falls du Schwierigkeiten hast, dir einen Lösungsansatz vorzustellen, ohne an der Tastatur zu sitzen,
-* falls es dir schwer fällt, den Code der Kollegen oder auch deinen eigenen zu verstehen,
-* oder falls du kontinuierlich produktiv sein willst.
+Zu diesem Zweck versammelt Flow-Design Prinzipien, Praktiken, Konzepte unter anderem aus dem Clean Code Development, der Agilität, dem Software Engineering, oder der Lean Production. **Flow-Design ist ganz pragmatisch: benutzt wird, was hilfreich ist.**
 
-Flow-Design ist ein systematischer und umfassender Ansatz, der sich in ein agiles Vorgehensmodell einpasst.
+Begründet wird diese Versammlung durch Argumente, die aus grundlegenden Beobachtungen abgeleitet sind.
+
+**Flow-Design richtet sich an den Praktiker, der Software im Team ökonomisch für den Kunden produzieren will**. Ihm bietet Flow-Design sowohl Heuristiken wie handfeste Methoden, Empfehlungen für die Codierung wie visuelle Notation für die Kommunikation im Team.
+
+![](images/gallery.png)
+
+Flow-Design ist sich der fundamentalen Komplexität der Softwareentwicklung bewusst. Eine Silberkugel wird nicht angeboten. Dennoch: **Flow-Design ist bemüht, unnötige Komplexität mit klaren Empfehlungen aus dem Weg zu räumen.**
+
+Die Leitsätze des Flow-Design entstammen dem [Elastischen Manifest](http://geekswithblogs.net/theArchitectsNapkin/archive/2011/12/16/from-agile-to-elastic.aspx):
+
+* Acceptance over specification
+* Progress over completion
+* Reactivity over commitment
+
+Flow-Design hat seine Wurzeln unter anderem in der Agilität, geht jedoch darüber hinaus. **In Flow-Design fließen Vorgehensmodell und Programmierpraxis zusammen.**
+
+Mit dem Wiki von flow-design.org möchte die [Clean Code Developer School](http://ccd-school.de) nun den Ort schaffen, an dem Flow-Design zumindest grundlegend und knapp dokumentiert ist.
+
+[Zum Wiki...](https://github.com/ccdschool/flow-design-org/wiki)
