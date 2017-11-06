@@ -2,13 +2,13 @@ Flow-Design ist eine **leichtgewichtige Methode zur Softwareentwicklung** von de
 
 Ziel von Flow-Design ist eine **nachhaltige Softwareentwicklung**, d.h. eine, die heute erfolgreich ist *und* auch in Zukunft.
 
-Zu diesem Zweck versammelt Flow-Design Prinzipien, Praktiken, Konzepte unter anderem aus dem Clean Code Development, der Agilität, dem Software Engineering, oder der Lean Production. **Flow-Design ist ganz pragmatisch: benutzt wird, was hilfreich ist.**
+Zu diesem Zweck versammelt Flow-Design Prinzipien, Praktiken, Konzepte unter anderem aus dem Clean Code Development, der Agilität, dem Software Engineering oder auch der Lean Production. **Flow-Design ist ganz pragmatisch: benutzt wird, was hilfreich ist.**
 
 Begründet wird diese Versammlung durch Argumente, die aus grundlegenden Beobachtungen abgeleitet sind.
 
 **Flow-Design richtet sich an den Praktiker, der Software im Team ökonomisch für den Kunden produzieren will**. Ihm bietet Flow-Design sowohl Heuristiken wie handfeste Methoden, Empfehlungen für die Codierung wie visuelle Notation für die Kommunikation im Team.
 
-![](images/gallery.png)
+![](images/gallery.png){:width="500px"}
 
 Flow-Design ist sich der fundamentalen Komplexität der Softwareentwicklung bewusst. Eine Silberkugel wird nicht angeboten. Dennoch: **Flow-Design ist bemüht, unnötige Komplexität mit klaren Empfehlungen aus dem Weg zu räumen.**
 
