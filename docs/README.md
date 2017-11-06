@@ -8,7 +8,7 @@ Begründet wird diese Versammlung durch Argumente, die aus grundlegenden Beobach
 
 **Flow-Design richtet sich an den Praktiker, der Software im Team ökonomisch für den Kunden produzieren will**. Ihm bietet Flow-Design sowohl Heuristiken wie handfeste Methoden, Empfehlungen für die Codierung wie visuelle Notation für die Kommunikation im Team.
 
-![](images/gallery.png){:width="500px"}
+![](images/gallery.png){:width="50px" height="40px"}
 
 Flow-Design ist sich der fundamentalen Komplexität der Softwareentwicklung bewusst. Eine Silberkugel wird nicht angeboten. Dennoch: **Flow-Design ist bemüht, unnötige Komplexität mit klaren Empfehlungen aus dem Weg zu räumen.**
 
